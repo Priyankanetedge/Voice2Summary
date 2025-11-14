@@ -1,0 +1,9 @@
+fpdf
+streamlit
+streamlit-webrtc
+av
+openai-whisper
+transformers
+reportlab
+pydub
+torch
